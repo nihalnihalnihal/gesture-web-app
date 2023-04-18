@@ -1,0 +1,17 @@
+#mybody{
+    background-color: aqua;
+    text-align: center;
+}
+#heading_button{
+    size: 30px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
